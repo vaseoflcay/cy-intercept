@@ -1,0 +1,15 @@
+{
+  "name": "cy-intercept",
+  "version": "1.0.0",
+  "description": "cypress intercept",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "luis marques",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^14.2.0",
+    "install": "^0.13.0"
+  }
+}
